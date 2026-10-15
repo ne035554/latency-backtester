@@ -1,0 +1,16 @@
+{
+  "p50_us": 0.664,
+  "p99_us": 1.478,
+  "p999_us": 5.055033000000054,
+  "max_us": 225.134,
+  "events_per_sec": 961615.48521475,
+  "label": "1_baseline",
+  "gc_disabled": false,
+  "events": 779968,
+  "runs": 5,
+  "cpu": "Intel(R) Xeon(R) Platinum 8481C CPU @ 2.70GHz",
+  "kernel": "7.0.0-1014-gcp",
+  "kernel_cmdline": "BOOT_IMAGE=/vmlinuz-7.0.0-1014-gcp root=PARTUUID=10c90fd7-bb6d-4926-b2f0-5f9d77cdcf47 ro console=ttyS0,115200 panic=-1",
+  "isolated_cpus": "",
+  "python": "3.12.3"
+}
